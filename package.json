@@ -1,0 +1,14 @@
+{
+  "name": "url-shortner-app",
+  "version": "1.0.0",
+  "description": "URL Shortner Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "start index.js"
+  },
+  "author": "Puja",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
