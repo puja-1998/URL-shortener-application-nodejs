@@ -1,0 +1,39 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    background-color: antiquewhite;
+}
+h1{
+    text-shadow: 2px 5px 2px  blueviolet;
+    font-size: 64px;
+    font-weight: 900;
+}
+
+label{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+button{
+    font-size: 20px;
+    font-weight: 500;
+    height: fit-content;
+    width: fit-content;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+}
+input{
+    height: 10px;
+    width: fit-content;
+    padding: 10px;
+    background-color: rgb(208, 208, 241);
+    color: white;
+    border-radius: 10px;
+}
